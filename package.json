@@ -1,0 +1,21 @@
+{
+  "name": "web3utils",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LxzLLL/web3Utils.git"
+  },
+  "author": "",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/LxzLLL/web3Utils/issues"
+  },
+  "homepage": "https://github.com/LxzLLL/web3Utils#readme",
+  "dependencies": {
+    "web3": "^1.8.2"
+  }
+}
