@@ -12,3 +12,12 @@ for (let i = 0; i < addresses.length; i++) {
   console.log(addresses[i]);
 }
  ************************************************************************/
+
+/*********************************AES对称加密*************************
+const CryptoSecret = require('./utils/secret')
+const cs =  new CryptoSecret()
+const enc = cs.AESEncrypt('0x88da3efde58872308CC0d9D40bCf4f2342f72E58',"1234123412ABCDEF","1")
+console.log(enc)
+const denc = cs.AESDecrypt(enc,"1234123412ABCDEF","1")
+console.log(denc)
+************************************************************************/
