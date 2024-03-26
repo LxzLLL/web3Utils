@@ -17,6 +17,8 @@
   "homepage": "https://github.com/LxzLLL/web3Utils#readme",
   "dependencies": {
     "crypto-js": "^4.1.1",
-    "web3": "^1.8.2"
+    "ethers": "^6.3.0",
+    "web3": "^1.8.2",
+    "xlsx": "^0.18.5"
   }
 }
